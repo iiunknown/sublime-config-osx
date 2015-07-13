@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"AngularJS Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Indent XML",
+		"JavaScript Snippets",
+		"JS Snippets",
+		"JsFormat",
+		"Package Control",
+		"PowerShell",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SyncedSideBar",
+		"Tag"
+	]
+}
